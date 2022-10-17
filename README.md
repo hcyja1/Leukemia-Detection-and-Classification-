@@ -2,6 +2,9 @@
 Detection and Classification of Acute Lymphoblatic Leukemia using Hybrid Ensemble CNN XGBoost model optimized by Genetic Algorithm
 
 
+Full Report with Methodology and Experimental Details : https://drive.google.com/file/d/1BrS_4uu9_MWsD8sakjv855hT7L_s9dHX/view?usp=sharing
+
+
 Supplementary item details and download : 
 IMPORTANT : Please put environment-env and Dataset in the same directory as the ALL-CAD-System and Code.
 The directory should be : 
