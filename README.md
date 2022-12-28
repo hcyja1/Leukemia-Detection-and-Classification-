@@ -63,6 +63,13 @@ Main Libraries used:
 10) pillow
 11) Augmentor
 
+![Screenshot (134)](https://user-images.githubusercontent.com/73547478/209740314-37c969dc-30bb-441e-a361-bf77a27496a6.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/73547478/209740320-87ee80c0-15eb-4fe9-b110-bf1c54accdbc.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/73547478/209740323-59cef5d1-9644-4461-99b4-6fdecdc8a643.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/73547478/209740329-d3b32489-2852-483e-b810-849fa0f6fa94.png)
+![detector_finish](https://user-images.githubusercontent.com/73547478/209740350-659104a2-10b1-4007-b873-bc1b4fab2d63.png)
+
+
 Notable documentations:
 1) https://sklearn-genetic-opt.readthedocs.io/en/stable/tutorials/basic_usage.html
 2) https://xgboost.readthedocs.io/en/stable/python/python_api.html
