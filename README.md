@@ -1,9 +1,7 @@
 # Leukemia-Detection-and-Classification-
 Detection and Classification of Acute Lymphoblatic Leukemia using Hybrid Ensemble CNN XGBoost model optimized by Genetic Algorithm
 
-
-Full Report with Methodology and Experimental Details : https://drive.google.com/file/d/1BrS_4uu9_MWsD8sakjv855hT7L_s9dHX/view?usp=sharing
-
+(Full Report with Methodology and Experimental Details)[https://drive.google.com/file/d/1GZy2mB0nXI1fb9Xol928lVeD4KaCM0hc/view?usp=sharing]
 
 Supplementary item details and download : 
 IMPORTANT : Please put environment-env and Dataset in the same directory as the ALL-CAD-System and Code.
@@ -17,31 +15,6 @@ The directory should be :
 		-> ALL IDB2
 	-> environment-env(From dropbox link 2, please extract dataset in main folder)
 
-Dropbox links : 
-
-1) Features(For testing model accuracy) : https://uniofnottm-my.sharepoint.com/:u:/g/personal/hcyja1_nottingham_ac_uk/ETfUgMrKfD1GsejE8Yt-KO0Bk7wtYlJJL9ZEdJ_tVQtR_w?e=nVV0r8
-2) Virtual Environment & Dataset : https://uniofnottm-my.sharepoint.com/:u:/g/personal/hcyja1_nottingham_ac_uk/EamF0G_FiBpPsdkqWAvkXG8BAhX942c0vP8tVZMDKwgPzg?e=tABHpk
-3) Folder with both : https://uniofnottm-my.sharepoint.com/:f:/g/personal/hcyja1_nottingham_ac_uk/EnH4pSzuNzpBq_NfdfsIA4UBAvtt_f8ewYEUa31ZexWyPA?e=ozqk5i
-
-Instructions on running ALL-CAD Diagnostic System : 
-1) Open command prompt(cmd) 
-2) Use "cd" to change to directory of "../Implementation/environment-env/Scripts/
-3) Activate virtual environment by typing in the command of "activate.bat" into your cmd.
-4) Use "cd" once again to change to the directory of "../Implementation/ALL-CD-System/".
-5) Run the command "python ALL-CAD-System.py".
-
-Instructions on use : 
-1) The software functionality is mainly split into 3 sections,
-   a. ALL Detection
-   b. Full blood smear image classification
-   c. Individual lymphocyte classification
-2) On clicking a/b/c in the root of the GUI interface, a pop up will indicating the selection of an image will show up. The default directory is set to the corresponding image type. 
-3) After selection of image, press the "detect" button on the far right.
-4) Results will be shown on scren. 
-
-Generally, please take note of these things:
-1) Activate the virtual environment created before running the ALL-CAD-System.py file. This allows packages and dependencies to be handled. 
-2) Ensure the dataset directory is properly handled.
 
 "Code" File Directories and usage : 
 1) Feature Extraction - Contains pretrained CNN models used for feature extraction, extracted features and corresponding labels, feature extraction code. 
